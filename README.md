@@ -1,7 +1,7 @@
 <h2 align = 'center'> GUIDE </h2>
 <ul>
 <li>  A.I.R ORS CREDENTIALS REQUIRED </li>
-<li>  Download this repository on your local machine. (green button 'Clone or Download' located in the middle-right of the page). </li> 
+<li>  <a href='https://github.com/ahmedtadde/ORS-Data'>Download</a> this repository on your local machine. (click on Download to be directed to the project's github page. Then, click the green button 'Clone or Download'). </li> 
 <li>  Download selenium chrome driver <a href ='https://sites.google.com/a/chromium.org/chromedriver/downloads'>here</a>.</li> 
 <li>  Place the downloaded chrome driver file in the downloaded repository folder.</li> 
 <li>  Download Python <a href ='https://www.python.org/downloads/'>here</a> (if not installed yet). Note: Code was written with Python 2.7 </li> 
