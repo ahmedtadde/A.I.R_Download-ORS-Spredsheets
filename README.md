@@ -1,5 +1,6 @@
 <h2 align = 'center'> GUIDE </h2>
 <ul>
+<li>  A.I.R ORS CREDENTIALS REQUIRED </li>
 <li>  Download this repository on your local machine. (green button 'Clone or Download' located in the middle-right of the page). </li> 
 <li>  Download selenium chrome driver <a href ='https://sites.google.com/a/chromium.org/chromedriver/downloads'>here</a>.</li> 
 <li>  Place the downloaded chrome driver file in the downloaded repository folder.</li> 
