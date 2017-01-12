@@ -1,7 +1,4 @@
-# GET ORS Spredsheets (A.I.R)
-Download ORS Spreadsheets automatically
-
-<h2 align = 'center'> Guide </h2>
+<h2 align = 'center'> GUIDE </h2>
 <ul>
 <li>  Download this repository on your local machine. (green button 'Clone or Download' located in the middle-right of the page). </li> 
 <li>  Download selenium chrome driver <a href ='https://sites.google.com/a/chromium.org/chromedriver/downloads'>here</a>.</li> 
